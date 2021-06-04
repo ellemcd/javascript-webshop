@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "type": true
+    },
+    "explorer.sortOrder": "type",
+    "editor.tabSize": 2
+}
